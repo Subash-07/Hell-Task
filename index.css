@@ -1,0 +1,18 @@
+#container {
+    position: relative; background-color:white
+  }
+#timer {
+    position: absolute; 
+    top: 50%; left: 26%;
+    font-family: Arial, sans-serif;
+    display: block; font-size: 200%; 
+  }
+  .hap{
+    color: #F47300;
+  }
+  .ind{
+    color: #293A8D;
+  }
+  .day{
+    color: #148409;
+  }
